@@ -233,5 +233,18 @@
     "low": "video/fighter 480ph.mp4",
     "medium": "video/fighter 720ph.mp4",
     "high": "video/fighter 1080ph.mp4"
+},{
+    "name": "Panchayat",
+    "imdb": 9.0,
+    "date": "2024",
+    "sposter": "img/panchayat.jpg",
+    "bposter": "img/panchayat1.webp",
+    "genre": "Comedy",
+    "type": "series",
+    "url": "panchayat.html",
+    "trailer": "panchayat trailer.mp4",
+    "low": "video/panchayat 480ph.mp4",
+    "medium": "video/panchayat 720ph.mp4",
+    "high": "video/panchayat 1080ph.mp4"
 }
 ]
