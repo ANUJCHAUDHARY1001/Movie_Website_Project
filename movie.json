@@ -206,5 +206,18 @@
     "low": "video/xxx 480ph.mp4",
     "medium": "video/xxx 720ph.mp4",
     "high": "video/xxx 1080ph.mp4"
+},{
+    "name": "Avengers: Endgame",
+    "imdb": 8.4,
+    "date": "2019",
+    "sposter": "img/endgame.jpg",
+    "bposter": "img/endgame1.webp",
+    "genre": "Action",
+    "type": "movie",
+    "url": "endgame.html",
+    "trailer": "endgame trailer.mp4",
+    "low": "video/endgame 480ph.mp4",
+    "medium": "video/endgame 720ph.mp4",
+    "high": "video/endgame 1080ph.mp4"
 }
 ]
