@@ -96,6 +96,7 @@
         });
 
         document.getElementById('title').innerText = movies_array[0].name;
+        document.getElementsByTagName('video')[0].src = movies_array[0].trailer;
         document.getElementById('low_q').href = movies_array[0].low;
         document.getElementById('medium_q').href = movies_array[0].medium;
         document.getElementById('high_q').href = movies_array[0].high;
