@@ -193,4 +193,17 @@
     "low": "video/spiderman 480ph.mp4",
     "medium": "video/spiderman 720ph.mp4",
     "high": "video/spiderman 1080ph.mp4"
+},{
+    "name": "XXX: Return of Xander Cage",
+    "imdb": 5.2,
+    "date": "2017",
+    "sposter": "img/xxx.jpg",
+    "bposter": "img/xxx1.jpg",
+    "genre": "Action",
+    "type": "movie",
+    "url": "xxx.html",
+    "trailer": "xxx trailer.mp4",
+    "low": "video/xxx 480ph.mp4",
+    "medium": "video/xxx 720ph.mp4",
+    "high": "video/xxx 1080ph.mp4"
 }]
