@@ -220,4 +220,18 @@
     "medium": "video/endgame 720ph.mp4",
     "high": "video/endgame 1080ph.mp4"
 }
+,{
+    "name": "Fighter",
+    "imdb": 6.2,
+    "date": "2024",
+    "sposter": "img/fighter.jpg",
+    "bposter": "img/fighter1.webp",
+    "genre": "Action",
+    "type": "movie",
+    "url": "fighter.html",
+    "trailer": "fighter trailer.mp4",
+    "low": "video/fighter 480ph.mp4",
+    "medium": "video/fighter 720ph.mp4",
+    "high": "video/fighter 1080ph.mp4"
+}
 ]
