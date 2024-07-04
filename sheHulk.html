@@ -46,9 +46,7 @@
       <div class="content">
         <h1 id="title">Money Heist</h1>
         <p>
-          A criminal mastermind who goes by "The Professor" has a plan to pull
-          off the biggest heist in recorded history -- to print billions of
-          euros in the Royal Mint of Spain.
+          Jennifer Walters has a complicated life as a single, 30-something attorney who also happens to be a green 6-foot-7-inch superpowered hulk.
         </p>
         <p></p>
         <div class="details">
@@ -92,7 +90,7 @@
     <script>
       fetch(json_url).then((Response)=>Response.json()).then(data =>{
         let movies_array = data.filter(ele =>{
-            return ele.name == 'The Boys';
+            return ele.name == 'She-Hulk: Attorney at Law';
         });
 
         document.getElementById('title').innerText = movies_array[0].name;
