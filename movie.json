@@ -1,4 +1,17 @@
 [{
+    "name": "She-Hulk: Attorney at Law",
+    "imdb": 5.2,
+    "date": "2022",
+    "sposter": "https://m.media-amazon.com/images/M/MV5BMjU4MTkxNzktNzUyYy00NDM2LWE5NGQtNjJlN2Q0N2MxZDAxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+    "bposter": "https://d23.com/app/uploads/2022/10/1180w-600h_102422_She-Hulk-Cameos_01.jpg",
+    "genre": "Action",
+    "type": "series",
+    "url": "sheHulk.html",
+    "trailer": "video/theboys1.mp4",
+    "low": "video/theboys.webm",
+    "medium": "video/the boys 720ph.mp4",
+    "high": "video/the boys 1080ph.mp4"
+},{
     "name": "The Boys",
     "imdb": 9.3,
     "date": "2022",
